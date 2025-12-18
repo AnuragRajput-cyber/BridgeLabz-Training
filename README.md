@@ -1,3 +1,8 @@
+# 👋 Hi, I'm Anurag
+
+🎓 **B.Tech in Computer Science with Specialization in Cloud Computing (IBM Integrated) @ GLA University**
+
+---
 # BridgeLabz-Training
 
 This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.
