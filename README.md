@@ -1,7 +1,14 @@
 # BridgeLabz-Training
 
+This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.  
+All work done each day, including **bench activities, practice programs, and file updates**, is recorded
+in this single README file.
+
 ---
 
+## 📁 Repository & Folder Structure
+
+```text
 BridgeLabz-Training
 │
 ├── main
@@ -22,13 +29,7 @@ BridgeLabz-Training
     │
     └── scenario-based
         └── Real-world and logic-based Java problem scenarios
-
----
-This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.
-All work done each day, including **bench activities, practice programs, and file updates**, is recorded
-in this single README file.
-
----
+```
 
 # 👋 Hi, I'm Anurag
 
