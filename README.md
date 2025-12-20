@@ -1,21 +1,12 @@
 # BridgeLabz-Training
-
-This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.  
-All work done each day, including **bench activities, practice programs, and file updates**, is recorded
-in this single README file.
-
+---
+# 👋 Hi, I'm Anurag
 ---
 
-## 📁 Repository & Folder Structure
+## 📁 Branch & Folder Structure
 
 ```text
-BridgeLabz-Training
-│
-├── main
-│   └── README.md
-│       └── Daily training log, progress tracking, and documentation
-│
-└── core-java-practice
+core-java-practice
     │
     ├── gcr-codebase
     │   ├── programming-elements
@@ -31,20 +22,9 @@ BridgeLabz-Training
         └── Real-world and logic-based Java problem scenarios
 ```
 
-# 👋 Hi, I'm Anurag
-
-🎓 **B.Tech in Computer Science with Specialization in Cloud Computing (IBM Integrated) @ GLA University**
 
 ---
-# BridgeLabz-Training
-
-This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.  
-All work done each day, including **bench activities, practice programs, and file updates**, is recorded
-in this single README file.
-
----
-
-## Daily Training Log
+## Daily Training Log of branch: core-java-practice
 
 | [16 December]| [17 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/level1-practice-questions) |
 |-------------|-------------|
