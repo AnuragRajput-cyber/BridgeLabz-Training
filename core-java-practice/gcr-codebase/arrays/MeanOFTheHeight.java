@@ -9,15 +9,14 @@ public class MeanOFTheHeight {
         double[] heights = new double[11];
         double sum = 0.0;
 
-        for (int i = 0; i < heights.length; i++) {
+        for (int i = 0; i < 11; i++) {
             System.out.print("Enter the height of player " + (i + 1) + ": ");
             heights[i] = sc.nextDouble();
             sum += heights[i];
         }
 
-        double mean = sum / heights.length;
+        double mean = sum / 11.0f;
         System.out.println("Mean height: " + mean);
-        sc.close();
     }
 }
 
