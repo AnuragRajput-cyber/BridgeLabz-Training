@@ -56,16 +56,3 @@ in this single README file.
 |-------------|-------------|
 | **Activities**<br>- Continued Core Java practice<br>- Practiced user input using `Scanner`<br>- Worked on mathematical and conversion-based programs<br>- Organized repository structure<br><br>**Practice Focus**<br>- Level 1 Practice Problems<br>- Level 2 Practice Problems<br><br>**Outcome**<br>- Level 1 & Level 2 concepts cleared<br>- Clean and structured repository | **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Applied conditions and logic building techniques<br>- Strengthened problem-solving approach<br><br>**Practice Focus**<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems<br><br>**Outcome**<br>- Clear understanding of control structures<br>- Completed Level 1, 2 & 3 practice questions |
 
----
-
-## Notes
-- All programs follow good programming practices
-- Proper naming conventions and indentation are maintained
-- Git is used regularly to track daily progress
-- Folder-wise structure is maintained for easy navigation
-
----
-
-## Next Updates
-- Continue adding **two dates per row (left → right)**
-- Include advanced Java topics and problem-solving levels
