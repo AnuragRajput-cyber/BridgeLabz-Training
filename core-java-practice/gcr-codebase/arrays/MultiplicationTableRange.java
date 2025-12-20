@@ -9,11 +9,13 @@ public class MultiplicationTableRange {
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
         
-        for (int i = 6; i <= 9; i++) {
-            System.out.println("Table for " + num + " up to " + i + ":");
-            for (int j = 1; j <= 10; j++) {
-                System.out.println(num + " * " + j + " = " + (num * j));
-            }
-        }
+	int[]multiplicationRes=new int[4];
+	
+        for(int i=6;i<=9;i++){
+	    multiplicationRes[i-6]=num*i;
+	}
+	for(int i=6;i<=9;i++){
+	    System.out.println(num+" * "+i+" = " +multiplicationRes[i-6]);
+	}
     }
 }
