@@ -1,6 +1,43 @@
 # BridgeLabz-Training
 
+---
+
+BridgeLabz-Training
+│
+├── main
+│   └── README.md
+│       └── Daily training log, progress tracking, and documentation
+│
+└── core-java-practice
+    │
+    ├── gcr-codebase
+    │   ├── programming-elements
+    │   │   └── Level 1 & Level 2 Java fundamentals practice
+    │   │
+    │   └── control-flow
+    │       └── Level 1, Level 2 & Level 3 control flow practice
+    │
+    ├── leet-code-codebase
+    │   └── DSA and algorithmic problem-solving practice
+    │
+    └── scenario-based
+        └── Real-world and logic-based Java problem scenarios
+
+---
 This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.
+All work done each day, including **bench activities, practice programs, and file updates**, is recorded
+in this single README file.
+
+---
+
+# 👋 Hi, I'm Anurag
+
+🎓 **B.Tech in Computer Science with Specialization in Cloud Computing (IBM Integrated) @ GLA University**
+
+---
+# BridgeLabz-Training
+
+This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.  
 All work done each day, including **bench activities, practice programs, and file updates**, is recorded
 in this single README file.
 
@@ -8,24 +45,12 @@ in this single README file.
 
 ## Daily Training Log
 
-| 16 December | 17 December |
+| [16 December]| [17 December](./core-java-practice/gcr-codebase/programming-elements/level1-practice-questions/) |
 |-------------|-------------|
-| **Activities**<br>- Downloaded and installed Eclipse IDE<br>- Installed VS Code<br>- Installed and configured Git<br>- Set up local development environment<br><br>**Outcome**<br>- Development environment ready for Java practice<br>- GitHub repository initialized | **Activities**<br>- Started Core Java practice<br>- Worked on first half of Level 1 practice problems<br>- Focused on basic syntax, variables, and formula-based programs<br><br>**Programs Worked On**<br>- AddTwoNumbers.java<br>- FindTheAge.java<br>- AverageOfNumbers.java<br>- AreaOfCircle.java<br>- AreaOfRectangle.java<br><br>**Outcome**<br>- Strong understanding of Java basics<br>- Initial Level 1 programs completed and committed |
+| **Activities**<br>- Installed Eclipse IDE & VS Code<br>- Installed and configured Git<br>- Set up Java development environment<br><br>**Practice Focus**<br>- Environment & tooling setup (no coding)<br><br>**Outcome**<br>- Development environment ready<br>- GitHub repository initialized | **Activities**<br>- Started Core Java fundamentals<br>- Practiced variables, data types, operators, and expressions<br><br>**Practice Focus**<br>- Level 1 basic Java programs<br><br>**Outcome**<br>- Strong understanding of Java basics<br>- First set of Java programs committed |
 
 ---
 
-| 18 December | 19 December |
+| [18 December](./core-java-practice/gcr-codebase/programming-elements/level1-practice-questions/) | [19 December](./core-java-practice/gcr-codebase/control-flow) |
 |-------------|-------------|
-| **Activities**<br>- Completed remaining Level 1 practice problems<br>- Solved all Level 2 practice problems<br>- Practiced user input using Scanner class<br>- Performed unit conversions and calculator programs<br>- Organized repository into Level 1 and Level 2 folders<br><br>**Programs Worked On**<br>_Level 1_<br>- AverageOfMarks.java<br>- ProfitAndLoss.java<br>- SimpleInterest.java<br>- UniversityDiscount.java<br>- VolumeOfCylinder.java<br><br>_Level 2_<br>- Calculator.java<br>- CelsiusToFahrenheit.java<br>- CmToFeetsInches.java<br>- FeetToYardsAndMiles.java<br>- KmtTOMiles.java<br>- PowerCalculation.java<br>- SideOfSquare.java<br><br>**Outcome**<br>- All Level 1 and Level 2 programs completed<br>- Clean, structured repository ready for review | **Activities**<br>- <br><br>**Programs Worked On**<br>- <br><br>**Outcome**<br>- |
-
----
-
-## Notes
-- All programs follow good programming practices
-- Proper naming conventions and indentation are maintained
-- Git is used regularly to track progress
-
----
-
-## Next Updates
-Add two dates per row (left → right) to continue the training log.
+| **Activities**<br>- Continued Core Java practice<br>- Practiced user input using `Scanner`<br>- Worked on mathematical and conversion-based programs<br>- Organized repository structure<br><br>**Practice Focus**<br>- Level 1 Practice Problems<br>- Level 2 Practice Problems<br><br>**Outcome**<br>- Level 1 & Level 2 concepts cleared<br>- Clean and structured repository | **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Applied conditions and logic building techniques<br>- Strengthened problem-solving approach<br><br>**Practice Focus**<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems<br><br>**Outcome**<br>- Clear understanding of control structures<br>- Completed Level 1, 2 & 3 practice questions |
