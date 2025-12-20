@@ -56,3 +56,8 @@ in this single README file.
 |-------------|-------------|
 | **Activities**<br>- Continued Core Java practice<br>- Pushed level 1 and level2 Problem Solutions <br>- Organized repository structure<br><br>**Work Done**<br>- Level 1 Practice Problems<br>- Level 2 Practice Problems| **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Strengthened problem-solving approach<br><br>**Work Done**<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems|
 
+---
+
+| [20 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) | [21 December](./core-java-practice/gcr-codebase/control-flow) |
+|-------------|-------------|
+| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️| **Activities**<br>**Work Done**|
