@@ -6,7 +6,9 @@
 ## 📁 Branch & Folder Structure
 
 ```text
-core-java-practice
+BridgeLabz-Training
+|
+├──core-java-practice
     │
     ├── gcr-codebase
     │   ├── programming-elements
