@@ -1,28 +1,22 @@
 # BridgeLabz-Training
-
-This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.  
-All work done each day, including **bench activities, practice programs, and file updates**, is recorded
-in this single README file.
-
+---
+# 👋 Hi, I'm Anurag
 ---
 
-## 📁 Repository & Folder Structure
+## 📁 Branch & Folder Structure
 
 ```text
-BridgeLabz-Training
-│
-├── main
-│   └── README.md
-│       └── Daily training log, progress tracking, and documentation
-│
-└── core-java-practice
+core-java-practice
     │
     ├── gcr-codebase
     │   ├── programming-elements
     │   │   └── Level 1 & Level 2 Java fundamentals practice
     │   │
-    │   └── control-flow
-    │       └── Level 1, Level 2 & Level 3 control flow practice
+    │   |── control-flow
+    │   |    └── Level 1, Level 2 & Level 3 control flow practice
+    |   |
+    |   └── Arrays
+    |        └── Level1 and Level 2 Array Practice
     │
     ├── leet-code-codebase
     │   └── DSA and algorithmic problem-solving practice
@@ -31,33 +25,33 @@ BridgeLabz-Training
         └── Real-world and logic-based Java problem scenarios
 ```
 
-# 👋 Hi, I'm Anurag
-
-🎓 **B.Tech in Computer Science with Specialization in Cloud Computing (IBM Integrated) @ GLA University**
-
----
-# BridgeLabz-Training
-
-This repository contains my **date-wise training plan and daily progress** during BridgeLabz training.  
-All work done each day, including **bench activities, practice programs, and file updates**, is recorded
-in this single README file.
 
 ---
 
-## Daily Training Log
-
-| [16 December]| [17 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/level1-practice-questions) |
-|-------------|-------------|
-| **Activities**<br>- Installed Eclipse IDE & VS Code<br>- Installed and configured Git<br>- Set up Java development environment<br><br>**Work Done**<br>- Environment & tooling setup (no coding)| **Activities**<br>- Started with Core Java fundamentals<br>- Practiced Some basic Level java Fundamental Problems <br><br>**Work Done**<br>- Level 1 basic Java programs<br>|
+This repository contains my structured Java learning and practice work during BridgeLabz training.
 
 ---
 
-| [18 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/) | [19 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) |
-|-------------|-------------|
-| **Activities**<br>- Continued Core Java practice<br>- Pushed level 1 and level2 Problem Solutions <br>- Organized repository structure<br><br>**Work Done**<br>- Level 1 Practice Problems<br>- Level 2 Practice Problems| **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Strengthened problem-solving approach<br><br>**Work Done**<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems|
+## 📁 Repository Structure
+
+### 🌿 Branches
+
+- **[main](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/main)**
+  - **[README.md](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/blob/main/README.md)**
+
+- **[core-java-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice)**
 
 ---
 
-| [20 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based) | [21 December](./core-java-practice/gcr-codebase/control-flow) |
-|-------------|-------------|
-| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️| **Activities**<br>**Work Done**|
+### 📂 Folders inside `core-java-practice`
+
+- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)**
+  - **[programming-elements](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)**
+  - **[control-flow](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)**
+  - **[Arrays](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)**
+
+- **[leet-code-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)**
+
+- **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)**
+
+---
