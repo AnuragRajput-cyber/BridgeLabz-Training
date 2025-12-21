@@ -12,12 +12,14 @@ core-java-practice
     │   ├── programming-elements
     │   │   └── Level 1 & Level 2 Java fundamentals practice
     │   │
-    │   |── control-flow
-    │   |    └── Level 1, Level 2 & Level 3 control flow practice
+    │   ├── control-flow
+    │   |   └── Level 1, Level 2 & Level 3 control flow practice
     |   |
-    |   └── Arrays
-    |        └── Level1 and Level 2 Array Practice
-    │
+    |   ├── arrays
+    |   |   └── Level1 and Level 2 Array Practice
+    │   |
+    |   ├── strings
+    |       └── Level1, Level2 and Level 3 strings Practice
     ├── leet-code-codebase
     │   └── DSA and algorithmic problem-solving practice
     │
@@ -41,6 +43,6 @@ core-java-practice
 
 ---
 
-| [20 December](./core-java-practice/scenario-based//) | [21 December](./core-java-practice/gcr-codebase/control-flow) |
+| [20 December](./core-java-practice/scenario-based//) | [21 December](./core-java-practice/gcr-codebase/strings) |
 |-------------|-------------|
-| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamentals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>**Work Done**|
+| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamentals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>- Studied String's built in functions as **charAt(), toCharArray(), toUpperCase, toLowerCase()**<br>- Learn about some of the Exceptions as **NullPointerException, ArrayIndexOutOfBound, NumberFormation.**<br>**Work Done**<br>- Level1 Practice question of strings|
