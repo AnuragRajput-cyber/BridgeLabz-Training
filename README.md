@@ -40,4 +40,4 @@ core-java-practice
 
 | [20 December](./core-java-practice/scenario-based//) | [21 December](./core-java-practice/gcr-codebase/control-flow) |
 |-------------|-------------|
-| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamenrals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>**Work Done**|
+| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamentals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>**Work Done**|
