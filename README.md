@@ -12,8 +12,11 @@ core-java-practice
     │   ├── programming-elements
     │   │   └── Level 1 & Level 2 Java fundamentals practice
     │   │
-    │   └── control-flow
-    │       └── Level 1, Level 2 & Level 3 control flow practice
+    │   |── control-flow
+    │   |    └── Level 1, Level 2 & Level 3 control flow practice
+    |   |
+    |   └── Arrays
+    |        └── Level1 and Level 2 Array Practice
     │
     ├── leet-code-codebase
     │   └── DSA and algorithmic problem-solving practice
