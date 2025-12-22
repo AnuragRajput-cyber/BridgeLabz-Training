@@ -19,7 +19,11 @@ core-java-practice
     |   |   └── Level1 and Level 2 Array Practice
     │   |
     |   ├── strings
-    |       └── Level1, Level2 and Level 3 strings Practice
+    |   |   └── Level1, Level2 and Level 3 strings Practice
+    │   |
+    |   ├── methods
+    |       └── Level1, Level2 and Level 3 methods Practice
+    |
     ├── leet-code-codebase
     │   └── DSA and algorithmic problem-solving practice
     │
@@ -46,3 +50,9 @@ core-java-practice
 | [20 December](./core-java-practice/scenario-based//) | [21 December](./core-java-practice/gcr-codebase/strings) |
 |-------------|-------------|
 | **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamentals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>- Studied String's built in functions as <br>--**charAt(), toCharArray(), toUpperCase, toLowerCase()**<br>- Learn about some of the Exceptions as <br>-- **NullPointerException, ArrayIndexOutOfBound, NumberFormation.**<br>- learn through material<br>**Work Done**<br>- Level1 Practice question of strings|
+
+---
+
+| [22 December](./core-java-practice/gcr-codebase/strings/) | [21 December](./core-java-practice/gcr-codebase/strings) |
+|-------------|-------------|
+| **Activities**<br>- Worked on some more string's upper level Problems<br>- Focusing on Java methods<br>- **Work Done**<br>- Level 2 and level 3 Practice question of Strings<br>- [Level1, level2 and Level3 Practice questions of methods](./core-java-practice/gcr-codebase/methods/)| **Activities**<br>**Work Done**|
