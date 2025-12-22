@@ -4,12 +4,12 @@ import java.util.Scanner;
 
 public class PrintOddEven {
 	static void printOddEven(int n) {
-        if (n >= 1) {
-            for (int i = 1; i <= n; i++) {
-                if (i % 2 == 0)
-                    System.out.println(i + " is Even");
+        if(n>=1){
+            for(int i =1;i<= n;i++) {
+                if(i%2==0)
+                    System.out.println(i+ " is Even");
                 else
-                    System.out.println(i + " is Odd");
+                    System.out.println(i+" is Odd");
             }
         } else {
             System.out.println("Not a natural number");

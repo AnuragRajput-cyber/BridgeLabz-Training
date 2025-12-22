@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class WhileCounter {
 	static void  CountWhile(int counter) {
-        while (counter >= 1) {
+        while(counter >=1) {
             System.out.println(counter);
             counter--;
         }

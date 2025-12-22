@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ForCounter {
 	static void  CountFor(int num) {
-		for (int i = num; i >= 1; i--) {
+		for (int i=num;i>=1;i--) {
             System.out.println(i);
         }
     }

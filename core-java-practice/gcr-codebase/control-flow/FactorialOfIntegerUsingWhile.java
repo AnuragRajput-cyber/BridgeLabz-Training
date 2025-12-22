@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class FactorialOfIntegerUsingWhile {
 	static void factorial(int n) {
-        if (n >= 0) {
-            int fact = 1;
+        if(n>=0) {
+            int fact=1;
             int i=1;
             while(i<=n) {
             	fact*=i;
             	i++;
             }
             System.out.println(fact);
-        } else {
+        }else{
             System.out.println("Not a positive integer");
         }
     }

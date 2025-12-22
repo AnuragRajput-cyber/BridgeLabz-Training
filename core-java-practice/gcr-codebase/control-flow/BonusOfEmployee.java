@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class BonusOfEmployee {
 	static void computeBonus(double salary, int years) {
-        if (years > 5) {
-            double bonus = 0.05 * salary;
+        if(years>5) {
+            double bonus=0.05*salary;
             System.out.println( bonus);
-        } else {
+        }else{
             System.out.println("No bonus applicable");
         }
     }
