@@ -51,6 +51,8 @@ This repository contains my structured Java learning and practice work during Br
   - **[programming-elements](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)**
   - **[control-flow](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)**
   - **[Arrays](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)**
+  - **[strings](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)**
+  - **[Methods](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)**
 
 - **[leet-code-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)**
 
