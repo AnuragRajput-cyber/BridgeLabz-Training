@@ -55,4 +55,4 @@ core-java-practice
 
 | [22 December](./core-java-practice/gcr-codebase/strings/) | [21 December](./core-java-practice/gcr-codebase/strings) |
 |-------------|-------------|
-| **Activities**<br>- Worked on some more string's upper level Problems<br>- Focusing on Java methods<br>- **Work Done**<br>- Level 2 and level 3 Practice question of Strings<br>- [Level1, level2 and Level3 Practice questions of methods](./core-java-practice/gcr-codebase/methods/)| **Activities**<br>**Work Done**|
+| **Activities**<br>- Worked on some more string's upper level Problems<br>- Focusing on Java methods<br>**Work Done**<br>- Level 2 and level 3 Practice question of Strings<br>- [Level1, level2 and Level3 Practice questions of methods](./core-java-practice/gcr-codebase/methods/)| **Activities**<br>**Work Done**|
