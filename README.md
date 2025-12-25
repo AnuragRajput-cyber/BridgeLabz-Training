@@ -8,7 +8,7 @@
 ```text
 BridgeLabz-Training
 |
-├core-java-practice
+├──core-java-practice
 |   │
 |   ├── gcr-codebase
 |   │   ├── programming-elements
