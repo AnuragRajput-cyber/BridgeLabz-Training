@@ -91,10 +91,10 @@ This repository contains my structured Java learning and practice work during Br
 
 ---
 ### 📂 Folders inside `oops-practice`
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/oops-practice/gcr-codebase)**
-  - **[classes-and-objects](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/oops-practice/gcr-codebase/classes-and-objects)**
-  - **[constructors-and-accessmodifiers](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)**
-  - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
-  - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/oops-practice/gcr-codebase/this-static-and-final)**
+- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)**
+  - **[classes-and-objects](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects)**
+  - **[constructors-and-accessmodifiers](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)**
+  - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
+  - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
 
 ---
