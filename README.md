@@ -11,6 +11,9 @@ core-java-practice
     ├── gcr-codebase
     │   ├── programming-elements
     │   │   └── Level 1 & Level 2 Java fundamentals practice
+    |   |
+    │   ├── built-in-functions
+    │   │   └── practice Problems
     │   │
     │   ├── control-flow
     │   |   └── Level 1, Level 2 & Level 3 control flow practice
@@ -22,7 +25,10 @@ core-java-practice
     |   |   └── Level1, Level2 and Level 3 strings Practice
     │   |
     |   ├── methods
-    |       └── Level1, Level2 and Level 3 methods Practice
+    |   |   └── Level1, Level2 and Level 3 methods Practice
+    │   |
+    |   ├── java-string-extras
+    |       └── Java String Handling Practice
     |
     ├── leet-code-codebase
     │   └── DSA and algorithmic problem-solving practice
