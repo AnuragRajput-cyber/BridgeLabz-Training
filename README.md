@@ -8,23 +8,20 @@
 ```text
 BridgeLabz-Training
 |
-├──core-java-practice
+├──oops-pratice
     │
     ├── gcr-codebase
-    │   ├── programming-elements
-    │   │   └── Level 1 & Level 2 Java fundamentals practice
-    │   │
-    │   |── control-flow
-    │   |    └── Level 1, Level 2 & Level 3 control flow practice
-    |   |
-    |   └── Arrays
-    |        └── Level1 and Level 2 Array Practice
-    │
-    ├── leet-code-codebase
-    │   └── DSA and algorithmic problem-solving practice
-    │
-    └── scenario-based
-        └── Real-world and logic-based Java problem scenarios
+        ├── classes-and-objects
+        │   └── Level 1 oops practice
+        │
+        |── constructors-and-accessmodifiers
+        |    └── Level 1 constructore,instance vs class level variable and accessmodifiers practice
+        |
+        |── object-oriented-design-principles
+        |    └── Object Modelling and self solving problems
+        |
+        └── this-static-and-final
+             └── Level1 this,static and final practices
 ```
 
 
