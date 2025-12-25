@@ -33,7 +33,7 @@ BridgeLabz-Training
 | **Activities**<br>**Work Done**<br>| **Activities**<br>- started with Object Oriented Programming System's Fundamentals<br>- Worked on Classes and Objects <br>- Java Constructors, Instance vs. Class Variables, Access Modifiers<br>**Work Done**<br>- [Java Class and Object Level 1 Lab Practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects)<br>- [Level 1 Lab Practice of Constructors,variables](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)|
 ---
 
-| [24 December](./oops-pratice/gcr-codebase//)| 25 December|
+| [24 December](./oops-pratice/gcr-codebase/)| 25 December|
 |-------------|-------------|
-| **Activities**<br>- Worked on this,static and final variables<br>- Studied Object Oriented designing Principles<br>**Work Done**<br>- [Object Modelling Assisted ans self Problem Practice](./oops-pratice/gcr-codebase/object-oriented-design-principles/)<br>- [Level1 this,static and final practices](./oops-pratice/gcr-codebase/this-static-and-final/)|**Activities**<br><br>**Work Done**<br>|
+| **Activities**<br>- Worked on this,static and final variables<br>- Studied Object Oriented designing Principles<br>**Work Done**<br>- [Object Modelling Assisted ans self Problem Practice](./oops-pratice/gcr-codebase/classes-and-objects/)<br>- [Level1 this,static and final practices](./oops-pratice/gcr-codebase/this-static-and-final/)|**Activities**<br><br>**Work Done**<br>|
 
