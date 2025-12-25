@@ -28,7 +28,7 @@ BridgeLabz-Training
 ---
 ## Daily Training Log of branch: core-java-practice
 
-| [24 December](./oops-pratice/gcr-codebase/this-static-and-final/)| 25 December|
+| [24 December](./oops-pratice/gcr-codebase//)| 25 December|
 |-------------|-------------|
-| **Activities**<br>- Installed Eclipse IDE & VS Code<br>- Installed and configured Git<br>- Set up Java development environment<br><br>**Work Done**<br>- Environment & tooling setup (no coding)| **Activities**<br>- Started with Core Java fundamentals<br>- Practiced Some basic Level java Fundamental Problems <br><br>**Work Done**<br>- Level 1 basic Java programs<br>|
+| **Activities**<br>- Worked on this,static and final variables<br>- Studied Object Oriented designing Principles<br>**Work Done**<br>- [Object Modelling Assisted ans self Problem Practice](./oops-pratice/gcr-codebase/object-oriented-design-principles/)<br>- [Level1 this,static and final practices](./oops-pratice/gcr-codebase/this-static-and-final/)|**Activities**<br><br>**Work Done**<br>|
 
