@@ -28,7 +28,7 @@ BridgeLabz-Training
 ---
 ## Daily Training Log of branch: core-java-practice
 
-| [22 December](./core-java-practice/gcr-codebase/strings/) | [23 December](./oops-pratice/gcr-codebase/) |
+| [22 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/core-java-practice/gcr-codebase/Strings) | [23 December](./oops-pratice/gcr-codebase/) |
 |-------------|-------------|
 | **Activities**<br>**Work Done**<br>| **Activities**<br>- started with Object Oriented Programming System's Fundamentals<br>- Worked on Classes and Objects <br>- Java Constructors, Instance vs. Class Variables, Access Modifiers<br>**Work Done**<br>- [Java Class and Object Level 1 Lab Practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects)<br>- [Level 1 Lab Practice of Constructors,variables](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)|
 ---
