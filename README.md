@@ -8,93 +8,35 @@
 ```text
 BridgeLabz-Training
 |
-├──core-java-practice
-|   │
-|   ├── gcr-codebase
-|   │   ├── programming-elements
-|   │   │   └── Level 1 & Level 2 Java fundamentals practice
-|   |   |
-|   │   ├── built-in-functions
-|   │   │   └── practice Problems
-|   │   │
-|   │   ├── control-flow
-|   │   |   └── Level 1, Level 2 & Level 3 control flow practice
-|   |   |
-|   |   ├── arrays
-|   |   |   └── Level1 and Level 2 Array Practice
-|   │   |
-|   |   ├── strings
-|   |   |   └── Level1, Level2 and Level 3 strings Practice
-|   │   |
-|   |   ├── methods
-|   |   |   └── Level1, Level2 and Level 3 methods Practice
-|   │   |
-|   |   ├── java-string-extras
-|   |       └── Java String Handling Practice
-|   |
-|   ├── leet-code-codebase
-|   │   └── DSA and algorithmic problem-solving practice
-|   │
-|   └── scenario-based
-|       └── Real-world and logic-based Java problem scenarios
-|
-├──oops-pratice
+├──dsa-pratice
     │
     ├── gcr-codebase
-        ├── classes-and-objects
-        │   └── Level 1 oops practice
+        ├── linkedlist
+        │   └── Practice Problems on Multiple types of Linkedlist
         │
-        |── constructors-and-accessmodifiers
-        |    └── Level 1 constructore,instance vs class level variable and accessmodifiers practice
+        |── stack-queue-hashmaps-and-hash-funtions
+        |    └── Practice Problems and implementation of these structures
         |
-        |── object-oriented-design-principles
-        |    └── Object Modelling and self solving problems
+        |── sorting
+        |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
         |
-        └── this-static-and-final
-             └── Level1 this,static and final practices
+        └── stringBuffer-stringBuilder-inputStreamReader-fileReader
+        |    └── UseCases and Practice Problem using this
+        |
+        └── linear-and-binary-search
+             └── Practice Problems using both algorithms
 ```
+## Daily Training Log of branch: dsa-practice
 
+| [29 December](./dsa-practice/gcr-codebase/linkedlist/)| 30 December|
+|-------------|-------------|
+| **Activities**<br>- Started With data Structures<br>- learned about multiple Types of Linkedlist**Work Done**<br>-Done some Practice Problems on Linkelist<br>--as singly, doubly and circular| **Activities**<br>- Continue with Data Structures<br>- learned about stack,queue and hashMaps<br>-Study about some **Sorting** techniques <br>-- as Bubble,Selection,insertion,merge and more**Work Done**<br>- [pushed code of SOlution of Stack and queue](./dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions/stack_and_queues/) <br>- [HashMap and HashFunctions](./dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions/hashMap_and_hashFuntions/)<br>-[Solution of Practice Problems on Sorting techniques](./dsa-practice/gcr-codebase/sorting/)|
+
+---
+| 31 December | 01 January |
+|-------------|-------------|
+| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search**Work Done**<br>- [Multiple types of Problem based on these concepts](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/)<br>-- as on FileReader,InputStreamReader<br>- [Some Practice Problems with using thiese searching techniques](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>**Work Done**|
 
 ---
 
-This repository contains my structured Java learning and practice work during BridgeLabz training.
 
----
-
-## 📁 Repository Structure
-
-### 🌿 Branches
-
-- **[main](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/main)**
-  - **[README.md](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/blob/main/README.md)**
-
-- **[core-java-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice)**
-
-- **[oops-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice)**
-
----
-
-### 📂 Folders inside `core-java-practice`
-
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)**
-  - **[programming-elements](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)**
-  - **[control-flow](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)**
-  - **[Arrays](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)**
-  - **[strings](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)**
-  - **[Methods](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)**
-  - **[java-string-extras](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-string-extras)**
-  - **[built-in-functions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)**
-
-- **[leet-code-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)**
-
-- **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)**
-
----
-### 📂 Folders inside `oops-practice`
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)**
-  - **[classes-and-objects](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects)**
-  - **[constructors-and-accessmodifiers](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)**
-  - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
-  - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
-
----
