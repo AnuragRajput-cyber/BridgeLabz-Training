@@ -39,19 +39,50 @@ BridgeLabz-Training
 |       └── Real-world and logic-based Java problem scenarios
 |
 ├──oops-pratice
+|   │
+|   ├── gcr-codebase
+|   |   ├── classes-and-objects
+|   |   │   └── Level 1 oops practice
+|   |   │
+|   |   |── constructors-and-accessmodifiers
+|   |   |    └── Level 1 constructore,instance vs class level variable and accessmodifiers practice
+|   |   |
+|   |   |── this-static-and-final
+|   |   |    └── Level1 this,static and final practices
+|   |   |
+|   |   |── Object-oriented-design-principles
+|   |   |    └── Creating Object Model,Solving some problems
+|   |   |
+|   |   |── inheritance
+|   |   |    └── Multiple types of Inheritance
+|   |   |
+|   |   └── encapsulation-polymorphism-abstract-class-and-interface
+|   |        └── Solving Some Problem with OOPS concepts
+|   |
+|   ├── scenario-based
+|       ├── Employee Wage Problem
+|           └── Solve the challenge with following the OOPS paradigm
+|
+├──dsa-pratice
     │
     ├── gcr-codebase
-        ├── classes-and-objects
-        │   └── Level 1 oops practice
+        ├── linkedlist
+        │   └── Practice Problems on Multiple types of Linkedlist
         │
-        |── constructors-and-accessmodifiers
-        |    └── Level 1 constructore,instance vs class level variable and accessmodifiers practice
+        |── stack-queue-hashmaps-and-hash-funtions
+        |    └── Practice Problems and implementation of these structures
         |
-        |── object-oriented-design-principles
-        |    └── Object Modelling and self solving problems
+        |── sorting
+        |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
         |
-        └── this-static-and-final
-             └── Level1 this,static and final practices
+        └── stringBuffer-stringBuilder-inputStreamReader-fileReader
+        |    └── UseCases and Practice Problem using this
+        |
+        └── linear-and-binary-search
+             └── Practice Problems using both algorithms
+
+
+
 ```
 
 
@@ -96,5 +127,18 @@ This repository contains my structured Java learning and practice work during Br
   - **[constructors-and-accessmodifiers](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)**
   - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
   - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
+  - **[inheritance](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)**
+  - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**
+- **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)**
+
+---
+
+### 📂 Folders inside `dsa-practice`
+- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)**
+  - **[linkedlist](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)**
+  - **[stack-queue-hashmaps-and-hash-funtions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions)**
+  - **[sorting](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)**
+  - **[StringBuffer-StringBuilder-inputStreamReader-fileReader](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader)**
+  - **[linear-and-binary-search](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)**
 
 ---
