@@ -35,7 +35,7 @@ BridgeLabz-Training
 ---
 | 31 December | 01 January |
 |-------------|-------------|
-| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search**Work Done**<br>- [Multiple types of Problem based on these concepts](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/)<br>-- as on FileReader,InputStreamReader<br>- [Some Practice Problems with using thiese searching techniques](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>**Work Done**|
+| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search<br>**Work Done**<br>- [Multiple types of Problem based on these concepts](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/) as on FileReader,InputStreamReader <br>- [Some Practice Problems with using thiese searching techniques](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>**Work Done**|
 
 ---
 
