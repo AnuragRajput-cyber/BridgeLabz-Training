@@ -103,6 +103,8 @@ This repository contains my structured Java learning and practice work during Br
 
 - **[oops-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice)**
 
+- **[dsa-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice)**
+
 ---
 
 ### 📂 Folders inside `core-java-practice`
@@ -129,6 +131,7 @@ This repository contains my structured Java learning and practice work during Br
   - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
   - **[inheritance](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)**
   - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**
+  
 - **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)**
 
 ---
