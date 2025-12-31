@@ -43,19 +43,19 @@ core-java-practice
 
 | [16 December]| [17 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/level1-practice-questions) |
 |-------------|-------------|
-| **Activities**<br>- Installed Eclipse IDE & VS Code<br>- Installed and configured Git<br>- Set up Java development environment<br><br>**Work Done**<br>- Environment & tooling setup (no coding)| **Activities**<br>- Started with Core Java fundamentals<br>- Practiced Some basic Level java Fundamental Problems <br><br>**Work Done**<br>- Level 1 basic Java programs<br>|
+| **Activities**<br>- Installed Eclipse IDE & VS Code<br>- Installed and configured Git<br>- Set up Java development environment<br><br>**Work Done**<br>- Environment & tooling setup (no coding)| **Activities**<br>- Started with Core Java fundamentals<br>- Practiced Some basic Level java Fundamental Problems <br><br>**Work Done**<br>- [Practice Problem](./core-java-practice/gcr-codebase/programming-elements/level1-practice-questions/)<br>|
 
 ---
 
 | [18 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/) | [19 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) |
 |-------------|-------------|
-| **Activities**<br>- Continued Core Java practice<br>- Pushed level 1 and level2 Problem Solutions <br>- Organized repository structure<br><br>**Work Done**<br>- Level 1 Practice Problems<br>- Level 2 Practice Problems| **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Strengthened problem-solving approach<br><br>**Work Done**<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems|
+| **Activities**<br>- Continued Core Java practice<br>- Pushed level 1 and level2 Problem Solutions <br>- Organized repository structure<br><br>**Work Done**br>- [Submission of Programming Elements Practices](./core-java-practice/gcr-codebase/programming-elements/)| **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Strengthened problem-solving approach<br><br>**Work Done**<br>-[Submission on Control Flow Practices](./core-java-practice/gcr-codebase/control-flow/)<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems|
 
 ---
 
 | [20 December](./core-java-practice/scenario-based//) | [21 December](./core-java-practice/gcr-codebase/strings) |
 |-------------|-------------|
-| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamentals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>- Studied String's built in functions as <br>--**charAt(), toCharArray(), toUpperCase, toLowerCase()**<br>- Learn about some of the Exceptions as <br>-- **NullPointerException, ArrayIndexOutOfBound, NumberFormation.**<br>- learn through material<br>**Work Done**<br>- Level1 Practice question of strings|
+| **Activities**<br>- More Focus on some scenario based Problems and Implementation<br>- Solved two Scenario Based Problems<br>- Worked On Java Array Fundamentals and concepts<br>**Work Done**<br>- The Coffee Counter Chronicles ☕<br>- Maya’s BMI Fitness Tracker 🏃‍♀️<br>- [Array's Level1 and Level2 Practice Problems](./core-java-practice/gcr-codebase/arrays/)| **Activities**<br>- Studied String's built in functions as <br>--**charAt(), toCharArray(), toUpperCase, toLowerCase()**<br>- Learn about some of the Exceptions as <br>-- **NullPointerException, ArrayIndexOutOfBound, NumberFormation.**<br>- learn through material<br>**Work Done**<br>- [Submissions on Java String Practices](./core-java-practice/gcr-codebase/strings/)|
 
 ---
 
