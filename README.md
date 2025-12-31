@@ -49,7 +49,7 @@ core-java-practice
 
 | [18 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements/) | [19 December](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow) |
 |-------------|-------------|
-| **Activities**<br>- Continued Core Java practice<br>- Pushed level 1 and level2 Problem Solutions <br>- Organized repository structure<br><br>**Work Done**br>- [Submission of Programming Elements Practices](./core-java-practice/gcr-codebase/programming-elements/)| **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Strengthened problem-solving approach<br><br>**Work Done**<br>-[Submission on Control Flow Practices](./core-java-practice/gcr-codebase/control-flow/)<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems|
+| **Activities**<br>- Continued Core Java practice<br>- Pushed level 1 and level2 Problem Solutions <br>- Organized repository structure<br>**Work Done**<br>- [Submission of Programming Elements Practices](./core-java-practice/gcr-codebase/programming-elements/)| **Activities**<br>- Studied and practiced **Control Flow statements**<br>- Strengthened problem-solving approach<br><br>**Work Done**<br>-[Submission on Control Flow Practices](./core-java-practice/gcr-codebase/control-flow/)<br>- Level 1 Control Flow problems<br>- Level 2 Control Flow problems<br>- Level 3 Control Flow problems|
 
 ---
 
