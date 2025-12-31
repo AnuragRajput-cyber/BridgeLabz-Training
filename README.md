@@ -28,14 +28,14 @@ BridgeLabz-Training
 ```
 ## Daily Training Log of branch: dsa-practice
 
-| [29 December](./dsa-practice/gcr-codebase/linkedlist/)| 30 December|
+| 29 December| 30 December|
 |-------------|-------------|
-| **Activities**<br>- Started With data Structures<br>- learned about multiple Types of Linkedlist**Work Done**<br>-Done some Practice Problems on Linkelist<br>--as singly, doubly and circular| **Activities**<br>- Continue with Data Structures<br>- learned about stack,queue and hashMaps<br>-Study about some **Sorting** techniques <br>-- as Bubble,Selection,insertion,merge and more**Work Done**<br>- [pushed code of SOlution of Stack and queue](./dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions/stack_and_queues/) <br>- [HashMap and HashFunctions](./dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions/hashMap_and_hashFuntions/)<br>-[Solution of Practice Problems on Sorting techniques](./dsa-practice/gcr-codebase/sorting/)|
+| **Activities**<br>- Started With data Structures<br>- learned about multiple Types of Linkedlist**Work Done**<br>- [01 - Submission of Data Structure - LinkedList](./dsa-practice/gcr-codebase/linkedlist/)<br>--as singly, doubly and circular| **Activities**<br>- Continue with Data Structures<br>- learned about stack,queue and hashMaps<br>-Study about some **Sorting** techniques <br>-- as Bubble,Selection,insertion,merge and more**Work Done**<br>- [02 - Submission of Stack and Queue](./dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions/stack_and_queues/) <br>- [02 - Submission HashMap and Hashing Function](./dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions/hashMap_and_hashFuntions/)<br>-[03 - Submission of Sorting Algorithms](./dsa-practice/gcr-codebase/sorting/)|
 
 ---
 | 31 December | 01 January |
 |-------------|-------------|
-| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search<br>**Work Done**<br>- [Multiple types of Problem based on these concepts](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/) as on FileReader,InputStreamReader <br>- [Some Practice Problems with using thiese searching techniques](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>**Work Done**|
+| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search<br>**Work Done**<br>- [04 and 05 Submission of StringBuffer,StringBuilder,fileReader and InputStreamReader](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/) as on FileReader,InputStreamReader <br>- [04 and 05 Submission of Linear and Binary Search](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>**Work Done**|
 
 ---
 
