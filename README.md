@@ -55,7 +55,7 @@ BridgeLabz-Training
 
 | [26 December](./oops-practice/gcr-codebase/inheritance)| [27 December](./oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface/)|
 |-------------|-------------|
-| **Activities**<br>- Learned about Object Oriented Programming's Interitance piller<br>**Work Done**<br>- Practice Some Problems on Multiple Type of Inheritance<br>-- As Single, Mutlilevel, hierarchical<br>- [Submission of Inheritance](./oops-practice/gcr-codebase/inheritance/)|**Activities**<br>- Learned About some more Piller of OOPs. <br>-- as **Encapsulation, Polymorphism, Abstraction and interface**<br>**Work Done**<br>- s[Submission of Encapsulation, Polymorphism, Interface and Abstract Class](./oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface/)|
+| **Activities**<br>- Learned about Object Oriented Programming's Interitance piller<br>**Work Done**<br>- Practice Some Problems on Multiple Type of Inheritance<br>-- As Single, Mutlilevel, hierarchical<br>- [Submission of Inheritance](./oops-practice/gcr-codebase/inheritance/)|**Activities**<br>- Learned About some more Piller of OOPs. <br>-- as **Encapsulation, Polymorphism, Abstraction and interface**<br>**Work Done**<br>- [Submission of Encapsulation, Polymorphism, Interface and Abstract Class](./oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface/)|
 
 ---
 
