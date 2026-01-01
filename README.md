@@ -24,7 +24,10 @@ BridgeLabz-Training
         |    └── UseCases and Practice Problem using this
         |
         └── linear-and-binary-search
-             └── Practice Problems using both algorithms
+        |    └── Practice Problems using both algorithms
+        |
+        └── runtime-analysis-and-BigO-Notation
+             └── Finding out the timeTaken by all these sorting and searching techniques and diffrent types of data structure
 ```
 ## Daily Training Log of branch: dsa-practice
 
@@ -35,7 +38,7 @@ BridgeLabz-Training
 ---
 | 31 December | 01 January |
 |-------------|-------------|
-| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search<br>**Work Done**<br>- [04 and 05 Submission of StringBuffer,StringBuilder,fileReader and InputStreamReader](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/) as on FileReader,InputStreamReader <br>- [04 and 05 Submission of Linear and Binary Search](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>**Work Done**|
+| **Activities**<br>- Studied about StringBuffer, StringBuilder <br>- fileReader and InputStreamReader<br>- learned About some Searching techniques <br>-- As Linear Search and Binary Search<br>**Work Done**<br>- [04 and 05 Submission of StringBuffer,StringBuilder,fileReader and InputStreamReader](./dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader/) as on FileReader,InputStreamReader <br>- [04 and 05 Submission of Linear and Binary Search](./dsa-practice/gcr-codebase/linear-and-binary-search/)| **Activities**<br>- Studied About the **Time Complexity** and **Big-O Notation**<br>- WOrked on Finding the Time complexity snf time taken by these algorithms<br>**Work Done**<br>-Pushed the code of some pratice Problems<br>- [06- Submission of Algorithm's Runtime Analysis & Big-O Notation](./dsa-practice/gcr-codebase/runtime-analysis-and-BigO-Notation/)|
 
 ---
 
