@@ -11,23 +11,28 @@ BridgeLabz-Training
 ├──dsa-pratice
     │
     ├── gcr-codebase
-        ├── linkedlist
-        │   └── Practice Problems on Multiple types of Linkedlist
-        │
-        |── stack-queue-hashmaps-and-hash-funtions
-        |    └── Practice Problems and implementation of these structures
-        |
-        |── sorting
-        |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
-        |
-        └── stringBuffer-stringBuilder-inputStreamReader-fileReader
-        |    └── UseCases and Practice Problem using this
-        |
-        └── linear-and-binary-search
-        |    └── Practice Problems using both algorithms
-        |
-        └── runtime-analysis-and-BigO-Notation
-             └── Finding out the timeTaken by all these sorting and searching techniques and diffrent types of data structure
+    |   ├── linkedlist
+    |   │   └── Practice Problems on Multiple types of Linkedlist
+    |   │
+    |   |── stack-queue-hashmaps-and-hash-funtions
+    |   |    └── Practice Problems and implementation of these structures
+    |   |
+    |   |── sorting
+    |   |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
+    |   |
+    |   └── stringBuffer-stringBuilder-inputStreamReader-fileReader
+    |   |    └── UseCases and Practice Problem using this
+    |   |
+    |   └── linear-and-binary-search
+    |   |    └── Practice Problems using both algorithms
+    |   |
+    |   └── runtime-analysis-and-BigO-Notation
+    |        └── Finding out the timeTaken by all these sorting and searching techniques and diffrent types of data structure
+    |
+    ├── scenario-based
+        ├── String-Formatter
+
+
 ```
 ## Daily Training Log of branch: dsa-practice
 
