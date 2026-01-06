@@ -145,9 +145,7 @@ This repository contains my structured Java learning and practice work during Br
   - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
   - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
   - **[inheritance](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)**
-  - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**
-  - **[runtime-analysis-and-BigO-Notation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/runtime-analysis-and-BigO-Notation)**
-  
+  - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**  
 - **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)**
 
 ---
@@ -159,6 +157,7 @@ This repository contains my structured Java learning and practice work during Br
   - **[sorting](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)**
   - **[StringBuffer-StringBuilder-inputStreamReader-fileReader](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader)**
   - **[linear-and-binary-search](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)**
+  - **[runtime-analysis-and-BigO-Notation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-and-BigO-Notation)**
 
 ---
 ### 📂 Folders inside `collections-practice`
