@@ -79,7 +79,10 @@ BridgeLabz-Training
 |       |    └── UseCases and Practice Problem using this
 |       |
 |       └── linear-and-binary-search
-|            └── Practice Problems using both algorithms
+|       |    └── Practice Problems using both algorithms
+|       |
+|       └── runtime-analysis-and-BigO-Notation
+|            └── Practice Problems on RunTime analysis
 |
 ├──collections-practice
 |   │
@@ -143,6 +146,7 @@ This repository contains my structured Java learning and practice work during Br
   - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
   - **[inheritance](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)**
   - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**
+  - **[runtime-analysis-and-BigO-Notation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/runtime-analysis-and-BigO-Notation)**
   
 - **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)**
 
