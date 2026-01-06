@@ -64,22 +64,34 @@ BridgeLabz-Training
 |           └── Solve the challenge with following the OOPS paradigm
 |
 ├──dsa-pratice
-    │
-    ├── gcr-codebase
-        ├── linkedlist
-        │   └── Practice Problems on Multiple types of Linkedlist
-        │
-        |── stack-queue-hashmaps-and-hash-funtions
-        |    └── Practice Problems and implementation of these structures
-        |
-        |── sorting
-        |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
-        |
-        └── stringBuffer-stringBuilder-inputStreamReader-fileReader
-        |    └── UseCases and Practice Problem using this
-        |
-        └── linear-and-binary-search
-             └── Practice Problems using both algorithms
+|   │
+|   ├── gcr-codebase
+|      ├── linkedlist
+|       │   └── Practice Problems on Multiple types of Linkedlist
+|       │
+|       |── stack-queue-hashmaps-and-hash-funtions
+|       |    └── Practice Problems and implementation of these structures
+|       |
+|       |── sorting
+|       |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
+|       |
+|       └── stringBuffer-stringBuilder-inputStreamReader-fileReader
+|       |    └── UseCases and Practice Problem using this
+|       |
+|       └── linear-and-binary-search
+|            └── Practice Problems using both algorithms
+|
+├──collections-practice
+|   │
+|   ├── gcr-codebase
+|   │   ├── generics
+|   │   │   └── Practice Problems on Generics and its types
+|   |   |
+|   │   ├── collection
+|   │       └── practice Problems on List,set and queue interfaces
+|   │
+|   └── scenario-based
+|       └── Real-world and logic-based collections problem scenarios
 
 
 
@@ -143,5 +155,11 @@ This repository contains my structured Java learning and practice work during Br
   - **[sorting](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)**
   - **[StringBuffer-StringBuilder-inputStreamReader-fileReader](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader)**
   - **[linear-and-binary-search](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)**
+
+---
+### 📂 Folders inside `collections-practice`
+- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)**
+  - **[generics](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)**
+  - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
 
 ---
