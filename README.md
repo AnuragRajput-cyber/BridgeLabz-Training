@@ -34,7 +34,7 @@ BridgeLabz-Training
 | **Activities**<br>**Work Done**|**Activities**<br>- Practice Problems on collection Interfaces<br>-- As List, set , Map and queue<br>**Work Done**<br>-Pushed the code of some pratice Problems<br>- [02 Submission of Collections](./collections-practice/gcr-codebase/collection/)|
 
 ---
-| 05 January | 06 January |
+| 06 January | 07 January |
 |-------------|-------------|
 | **Activities**<br>- Studying About Streams in Collections <br>**Work Done**|**Activities**<<br>**Work Done**|
 
