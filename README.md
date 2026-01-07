@@ -95,6 +95,12 @@ BridgeLabz-Training
 |   │
 |   └── scenario-based
 |       └── Real-world and logic-based collections problem scenarios
+|
+|
+├──reviews
+|   │
+|   ├── gcr-codebase
+|        └──Solving Problems given during coding reviews.
 
 
 
@@ -164,5 +170,10 @@ This repository contains my structured Java learning and practice work during Br
 - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)**
   - **[generics](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)**
   - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
+
+---
+
+### 📂 Folders inside `reviews`
+- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/reviews/gcr-codebase)**
 
 ---
