@@ -126,54 +126,62 @@ This repository contains my structured Java learning and practice work during Br
 
 - **[dsa-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice)**
 
+- **[reviews](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)**
+
+
+
 ---
 
 ### 📂 Folders inside `core-java-practice`
+- **[core-java-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)**
+    - **[programming-elements](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)**
+    - **[control-flow](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)**
+    - **[Arrays](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)**
+    - **[strings](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)**
+    - **[Methods](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)**
+    - **[java-string-extras](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-string-extras)**
+    - **[built-in-functions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)**
 
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase)**
-  - **[programming-elements](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements)**
-  - **[control-flow](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow)**
-  - **[Arrays](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays)**
-  - **[strings](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/strings)**
-  - **[Methods](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/methods)**
-  - **[java-string-extras](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/java-string-extras)**
-  - **[built-in-functions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/built-in-functions)**
+  - **[leet-code-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)**
 
-- **[leet-code-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)**
-
-- **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)**
+  - **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)**
 
 ---
 ### 📂 Folders inside `oops-practice`
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)**
-  - **[classes-and-objects](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects)**
-  - **[constructors-and-accessmodifiers](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)**
-  - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
-  - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
-  - **[inheritance](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)**
-  - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**  
-- **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)**
+- **[oops-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)**
+    - **[classes-and-objects](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/classes-and-objects)**
+    - **[constructors-and-accessmodifiers](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructors-and-accessmodifiers)**
+    - **[object-oriented-design-principles](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-oriented-design-principles)**
+    - **[this-static-and-final](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/this-static-and-final)**
+    - **[inheritance](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)**
+    - **[encapsulation-polymorphism-abstract-class-and-interface](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-abstract-class-and-interface)**  
+  - **[scenario-based](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)**
 
 ---
 
 ### 📂 Folders inside `dsa-practice`
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)**
-  - **[linkedlist](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)**
-  - **[stack-queue-hashmaps-and-hash-funtions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions)**
-  - **[sorting](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)**
-  - **[StringBuffer-StringBuilder-inputStreamReader-fileReader](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader)**
-  - **[linear-and-binary-search](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)**
-  - **[runtime-analysis-and-BigO-Notation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-and-BigO-Notation)**
+- **[dsa-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)**
+    - **[linkedlist](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)**
+    - **[stack-queue-hashmaps-and-hash-funtions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-hashmaps-and-hash-funtions)**
+    - **[sorting](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)**
+    - **[StringBuffer-StringBuilder-inputStreamReader-fileReader](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader)**
+    - **[linear-and-binary-search](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)**
+    - **[runtime-analysis-and-BigO-Notation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-and-BigO-Notation)**
 
 ---
 ### 📂 Folders inside `collections-practice`
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)**
-  - **[generics](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)**
-  - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
+- **[collections-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)**
+    - **[generics](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)**
+    - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
 
 ---
 
 ### 📂 Folders inside `reviews`
-- **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/reviews/gcr-codebase)**
+- **[review](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/review)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/reviews/gcr-codebase)**
 
 ---
