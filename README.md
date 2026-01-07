@@ -15,7 +15,10 @@ BridgeLabz-Training
 |   │   │   └── Practice Problems on Generics and its types
 |   |   |
 |   │   ├── collection
-|   │       └── practice Problems on List,set and queue interfaces
+|   │   |   └── practice Problems on List,set and queue interfaces
+|   │   |
+|   │   ├── streams
+|   │       └── practice Problems on streams Concepts as InputStream,FileReader,FileWriter,BufferedReader etc.
 |   │
 |   └── scenario-based
 |       └── Real-world and logic-based collections problem scenarios
@@ -36,6 +39,6 @@ BridgeLabz-Training
 ---
 | 06 January | 07 January |
 |-------------|-------------|
-| **Activities**<br>- Studying About Streams in Collections <br>**Work Done**|**Activities**<<br>**Work Done**|
+| **Activities**<br>- Studying About Streams in Collections <br>- **REVIEWS**<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|[**CHANGE DIRECTORY TO REVIEWS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|
 
 ---
