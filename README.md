@@ -39,6 +39,6 @@ BridgeLabz-Training
 ---
 | 06 January | 07 January |
 |-------------|-------------|
-| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and Write,ByteArrayInpute **/** OutputStream<br>**Word Done**<br>- [03 Submission of Java Streams](./collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|
+| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and BufferedWriter,ByteArrayInput **/** OutputStream<br>**Word Done**<br>- [03 Submission of Java Streams](./collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|
 
 ---
