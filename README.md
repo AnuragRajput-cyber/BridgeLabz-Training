@@ -39,6 +39,6 @@ BridgeLabz-Training
 ---
 | 06 January | 07 January |
 |-------------|-------------|
-| **Activities**<br>- Studying About Streams in Collections <br>- **REVIEWS**<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|[**CHANGE DIRECTORY TO REVIEWS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|
+| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|[**CHANGE DIRECTORY TO REVIEWS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|
 
 ---
