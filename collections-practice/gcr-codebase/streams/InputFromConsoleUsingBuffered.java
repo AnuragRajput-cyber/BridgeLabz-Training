@@ -15,7 +15,7 @@ public class InputFromConsoleUsingBuffered {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(
-                new FileWriter("src/collections_practice/streams/output2.txt")
+                new FileWriter("src/collections_practice/streams/InputFromConsoleOutput.txt")
         );
 
         for (int i = 0; i < 3; i++) {

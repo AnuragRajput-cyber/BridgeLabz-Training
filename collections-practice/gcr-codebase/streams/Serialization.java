@@ -35,7 +35,7 @@ public class Serialization {
 		employees.add(new Employee(101,"Anurag","Developer",50000));
 		employees.add(new Employee(101,"Aakash","HR",70000));
 		employees.add(new Employee(101,"Aditya","SDE",45000));
-		String filename = "Employee.dat";
+		String filename = "src/collections_practice/streams/Employee.dat";
 		try {
 			ObjectOutputStream os=new ObjectOutputStream(new FileOutputStream(filename));
 			os.writeObject(employees);

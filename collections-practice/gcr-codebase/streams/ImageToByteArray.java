@@ -6,7 +6,7 @@ public class ImageToByteArray {
     public static void main(String[] args) {
 
         String sourceImage = "src/collections_practice/streams/testing.png";
-        String outputImage = "output.jpg";
+        String outputImage = "src/collections_practice/streams/ImageToByteOutput.jpg";
 
         try {
             FileInputStream fis=new FileInputStream(sourceImage);

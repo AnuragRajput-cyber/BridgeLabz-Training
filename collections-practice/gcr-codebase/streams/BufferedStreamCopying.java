@@ -12,7 +12,7 @@ public class BufferedStreamCopying {
 		try {
 			BufferedInputStream bis=new BufferedInputStream(new FileInputStream("src/demo.txt"),4096);
 			long beforeExecutionTime=System.nanoTime();
-			BufferedOutputStream bos=new BufferedOutputStream(new FileOutputStream("src/collections_practice/streams/output.txt"));
+			BufferedOutputStream bos=new BufferedOutputStream(new FileOutputStream("src/collections_practice/streams/BufferedStreamOutput.txt"));
 			byte[]buffer=new byte[4096];
 			int data;
 			while((data=bis.read(buffer))!=-1) {
@@ -29,7 +29,7 @@ public class BufferedStreamCopying {
 		try {
 			long beforeExecution=System.nanoTime();
 			FileInputStream fis=new FileInputStream("src/demo.txt");
-			FileOutputStream fos=new FileOutputStream("output2.txt");
+			FileOutputStream fos=new FileOutputStream("fileOutput.txt");
 			long afterExecution=System.nanoTime();
 			
 			
