@@ -187,7 +187,7 @@ This repository contains my structured Java learning and practice work during Br
 
 ### 📂 Folders inside `reviews`
 - **[review](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/review)**
-  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/reviews/gcr-codebase)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)**
 
 ---
 
