@@ -253,7 +253,7 @@ This repository contains my structured Java learning and practice work during Br
 ---
 | 06 January | 07 January |
 |-------------|-------------|
-| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/gcr-codebase)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and BufferedWriter,ByteArrayInput **/** OutputStream<br>**Word Done**<br>- [03 Submission of Java Streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/gcr-codebase)|
+| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and BufferedWriter,ByteArrayInput **/** OutputStream<br>**Word Done**<br>- [03 Submission of Java Streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)|
 
 ---
 
