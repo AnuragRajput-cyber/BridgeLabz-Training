@@ -124,7 +124,9 @@ This repository contains my structured Java learning and practice work during Br
 
 - **[oops-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice)**
 
-- **[dsa-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice)**
+- **[dsa-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice)**
+
+- **[collections-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice)**
 
 - **[reviews](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)**
 
