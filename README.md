@@ -91,7 +91,13 @@ BridgeLabz-Training
 |   │   │   └── Practice Problems on Generics and its types
 |   |   |
 |   │   ├── collection
-|   │       └── practice Problems on List,set and queue interfaces
+|   │   |   └── practice Problems on List,set and queue interfaces
+|   │   |
+|   │   ├── exceptions
+|   │   |   └── practice Problems on Exception Handling
+|   │   |
+|   │   ├── streams
+|   │       └── practice Problems on streams API's
 |   │
 |   └── scenario-based
 |       └── Real-world and logic-based collections problem scenarios
