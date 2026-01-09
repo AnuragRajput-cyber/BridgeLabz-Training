@@ -42,3 +42,9 @@ BridgeLabz-Training
 | **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and BufferedWriter,ByteArrayInput **/** OutputStream<br>**Word Done**<br>- [03 Submission of Java Streams](./collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews)|
 
 ---
+
+| 08 January | 09 January |
+|-------------|-------------|
+| **Activities**<br>- Studied About **Java Exceptions** <br>- Completed Studying the Exceptions Study material<br>- **Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](./collections-practice/gcr-codebase/exceptions/)|**Activities**<br>**Word Done**|
+
+---
