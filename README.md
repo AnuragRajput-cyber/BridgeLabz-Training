@@ -18,14 +18,18 @@ BridgeLabz-Training
 |   │   |   └── practice Problems on List,set and queue interfaces
 |   │   |
 |   │   ├── streams
-|   │       └── practice Problems on streams Concepts as InputStream,FileReader,FileWriter,BufferedReader etc.
+|   │   |   └── practice Problems on streams Concepts as InputStream,FileReader,FileWriter,BufferedReader etc.
+|   │   |
+|   │   |
+|   │   ├── exceptions
+|   │       └── practice Problems on streams Concepts on exception Handling
 |   │
 |   └── scenario-based
 |       └── Real-world and logic-based collections problem scenarios
 
 ```
 
-## Daily Training Log of branch: dsa-practice
+## Daily Training Log of branch: collections-practice
 
 | 02 January| 03 January|
 |-------------|-------------|
@@ -45,6 +49,6 @@ BridgeLabz-Training
 
 | 08 January | 09 January |
 |-------------|-------------|
-| **Activities**<br>- Studied About **Java Exceptions** <br>- Completed Studying the Exceptions Study material<br>- **Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](./collections-practice/gcr-codebase/exceptions/)|**Activities**<br>**Word Done**|
+| **Activities**<br>- Studied About **Java Exceptions❌** <br>- Completed Studying Exception Handling<br>- **🤝Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](./collections-practice/gcr-codebase/exceptions/)|**Activities**<br>**Word Done**|
 
 ---
