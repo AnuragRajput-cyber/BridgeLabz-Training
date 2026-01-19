@@ -97,6 +97,18 @@ BridgeLabz-Training
 |   │   |   └── practice Problems on Exception Handling
 |   │   |
 |   │   ├── streams
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── regex
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── junit
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── reflection-and-annotation
 |   │       └── practice Problems on streams API'
 |   │
 |   └── scenario-based
@@ -187,6 +199,9 @@ This repository contains my structured Java learning and practice work during Br
     - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
     - **[streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)**
     - **[exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)**
+    - **[regex](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)**
+    - **[junit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)**
+    - **[reflection-and-annotation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)**
 
 
 ---
