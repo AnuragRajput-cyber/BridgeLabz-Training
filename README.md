@@ -275,7 +275,7 @@ This repository contains my structured Java learning and practice work during Br
 ---
 | 12 January | 13 January |
 |-------------|-------------|
-| **Activities**<br>- Studied about regex, MetaCharacters, Quantifiers<br>- Pattern Mactching<br>- Usecases of JavaRegex API<br>**Work Done**[05 Submission of Regex](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)<br>- Regex|**Activities**<br>-Studied about Junit Testing <br>- Introduction to JUnit Framework <br>-JUnit Annotations<br>- Writing Test Cases <br>- Structure of a Test Class<br>- Assertions<br>**Work Done**<br>- [05 Submission of JUnit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)|
+| **Activities**<br>- Studied about regex, MetaCharacters, Quantifiers<br>- Pattern Mactching<br>- Usecases of JavaRegex API<br>**Work Done**<br>- [05 Submission of Regex](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)<br>- Regex|**Activities**<br>-Studied about Junit Testing <br>- Introduction to JUnit Framework <br>-JUnit Annotations<br>- Writing Test Cases <br>- Structure of a Test Class<br>- Assertions<br>**Work Done**<br>- [05 Submission of JUnit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)|
 
 ---
 | 14 January | 15 January |
