@@ -280,7 +280,7 @@ This repository contains my structured Java learning and practice work during Br
 ---
 | 14 January | 15 January |
 |-------------|-------------|
-| **Activities**Studied About **reflection** and **annotation** <br>- Understanding of Usage of Reflection<br>**Work Done**|**Activities**<br>- Common Built-in <br>- Annotations<br>- Creating Custom Annotations<br>- Advanced Custom Annotations<br>- Real-World Use Cases<br>- Annotation Processing Tools<br>- Started With A scenatrio-based Problem **Address Book System**<br>**Work Done**<br>- [06 Submission of Annotations, Reflection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)|
+| **Activities**<br>- Studied About **reflection** and **annotation** <br>- Understanding of Usage of Reflection<br>**Work Done**|**Activities**<br>- Common Built-in <br>- Annotations<br>- Creating Custom Annotations<br>- Advanced Custom Annotations<br>- Real-World Use Cases<br>- Annotation Processing Tools<br>- Started With A scenatrio-based Problem **Address Book System**<br>**Work Done**<br>- [06 Submission of Annotations, Reflection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)|
 
 ---
 | 16 January | 17 January |
