@@ -60,29 +60,31 @@ BridgeLabz-Training
 |   |        └── Solving Some Problem with OOPS concepts
 |   |
 |   ├── scenario-based
-|       ├── Employee Wage Problem
-|           └── Solve the challenge with following the OOPS paradigm
+|       └── Real-world and logic-based collections problem scenarios
 |
 ├──dsa-pratice
 |   │
 |   ├── gcr-codebase
-|      ├── linkedlist
-|       │   └── Practice Problems on Multiple types of Linkedlist
-|       │
-|       |── stack-queue-hashmaps-and-hash-funtions
-|       |    └── Practice Problems and implementation of these structures
-|       |
-|       |── sorting
-|       |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
-|       |
-|       └── stringBuffer-stringBuilder-inputStreamReader-fileReader
-|       |    └── UseCases and Practice Problem using this
-|       |
-|       └── linear-and-binary-search
-|       |    └── Practice Problems using both algorithms
-|       |
-|       └── runtime-analysis-and-BigO-Notation
-|            └── Practice Problems on RunTime analysis
+|   |   ├── linkedlist
+|   |   │   └── Practice Problems on Multiple types of Linkedlist
+|   |   │
+|   |   |── stack-queue-hashmaps-and-hash-funtions
+|   |   |    └── Practice Problems and implementation of these structures
+|   |   |
+|   |   |── sorting
+|   |   |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
+|   |   |
+|   |   └── stringBuffer-stringBuilder-inputStreamReader-fileReader
+|   |   |    └── UseCases and Practice Problem using this
+|   |   |
+|   |   └── linear-and-binary-search
+|   |   |    └── Practice Problems using both algorithms
+|   |   |
+|   |   └── runtime-analysis-and-BigO-Notation
+|   |        └── Practice Problems on RunTime analysis
+|   |   
+|   ├── scenario-based
+|       └── Real-world and logic-based collections problem scenarios
 |
 ├──collections-practice
 |   │
@@ -97,7 +99,19 @@ BridgeLabz-Training
 |   │   |   └── practice Problems on Exception Handling
 |   │   |
 |   │   ├── streams
-|   │       └── practice Problems on streams API's
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── regex
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── junit
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── reflection-and-annotation
+|   │       └── practice Problems on streams API'
 |   │
 |   └── scenario-based
 |       └── Real-world and logic-based collections problem scenarios
@@ -187,6 +201,9 @@ This repository contains my structured Java learning and practice work during Br
     - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
     - **[streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)**
     - **[exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)**
+    - **[regex](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)**
+    - **[junit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)**
+    - **[reflection-and-annotation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)**
 
 
 ---
@@ -259,12 +276,37 @@ This repository contains my structured Java learning and practice work during Br
 ---
 | 06 January | 07 January |
 |-------------|-------------|
-| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and BufferedWriter,ByteArrayInput **/** OutputStream<br>**Word Done**<br>- [03 Submission of Java Streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)|
+| **Activities**<br>- Studying About Streams in Collections <br>- Reviews started<br>**Work Done**<br>- [review Problems- Pushed Solution in Review Branch](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)|**Activities**<br>- Solved Practice Problems of Stream concepts<br>- As InputStream,FileReader,BufferedReader and BufferedWriter,ByteArrayInput **/** OutputStream<br>**Work Done**<br>- [03 Submission of Java Streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams/)<br>- [**CHANGE BRANCH FOR REVIEWS SOLUTIONS**](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)|
 
 ---
 
 | 08 January | 09 January |
 |-------------|-------------|
-| **Activities**<br>- Studied About **Java Exceptions❌** <br>- Completed Studying Exception Handling<br>- **🤝Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions/)|**Activities**<br>- Gone through all of the study Material<br>- Git commands<br>**Word Done**<br>- Review(Verbal)|
+| **Activities**<br>- Studied About **Java Exceptions❌** <br>- Completed Studying Exception Handling<br>- **🤝Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions/)|**Activities**<br>- Gone through all of the study Material<br>- Git commands<br>**Work Done**<br>- Review(Verbal)|
+
+---
+| 10 January | 11 January |
+|-------------|-------------|
+| **Activities**<br>**Work Done**|**Activities**<br>**Work Done**|
+
+---
+| 12 January | 13 January |
+|-------------|-------------|
+| **Activities**<br>- Studied about regex, MetaCharacters, Quantifiers<br>- Pattern Mactching<br>- Usecases of JavaRegex API<br>**Work Done**<br>- [05 Submission of Regex](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)|**Activities**<br>-Studied about Junit Testing <br>- Introduction to JUnit Framework <br>-JUnit Annotations<br>- Writing Test Cases <br>- Structure of a Test Class<br>- Assertions<br>**Work Done**<br>- [05 Submission of JUnit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)|
+
+---
+| 14 January | 15 January |
+|-------------|-------------|
+| **Activities**<br>- Studied About **reflection** and **annotation** <br>- Understanding of Usage of Reflection<br>**Work Done**|**Activities**<br>- Common Built-in <br>- Annotations<br>- Creating Custom Annotations<br>- Advanced Custom Annotations<br>- Real-World Use Cases<br>- Annotation Processing Tools<br>- Started With A scenatrio-based Problem **Address Book System**<br>**Work Done**<br>- [06 Submission of Annotations, Reflection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)|
+
+---
+| 16 January | 17 January |
+|-------------|-------------|
+| **Activities**Started With Spring By Myself<br>-Studied About Cloud Networking <br>- Git merging Experiment<br>- Studied [learning material for Git practices](https://drive.google.com/file/d/1T3Dmg3Arh1PEC9F1g00RosYfZ1ZeeJLY/view?usp=classroom_web&authuser=0)<br>**Work Done**|**Activities**<br>**Work Done**|
+
+---
+| 18 January | 19 January |
+|-------------|-------------|
+| **Activities**<br>**Work Done**|**Activities**Studied About CSV<br>- OpenCSV Library<br>- In Spring Studied About Dpenedency Injection Implementation<br>**Work Done**|
 
 ---
