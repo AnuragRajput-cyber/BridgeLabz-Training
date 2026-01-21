@@ -99,20 +99,27 @@ BridgeLabz-Training
 |   │   ├── streams
 |   │   |   └── practice Problems on streams API'
 |   │   |
-|   │   |
 |   │   ├── regex
 |   │   |   └── practice Problems on streams API'
 |   │   |
-|   │   |
 |   │   ├── junit
 |   │   |   └── practice Problems on streams API'
-|   │   |
 |   │   |
 |   │   ├── reflection-and-annotation
 |   │       └── practice Problems on streams API'
 |   │
 |   └── scenario-based
 |       └── Real-world and logic-based collections problem scenarios
+|
+|
+├──io-programming-practice
+|   │
+|   ├── gcr-codebase
+|   │   ├── csv-data-handling
+|   │   │   └── Practice Problems on CSV,OpenCSV
+|   |   |
+|   │   ├── json
+|   │   │   └── Practice Problems on Json
 |
 |
 ├──reviews
@@ -203,6 +210,9 @@ This repository contains my structured Java learning and practice work during Br
     - **[junit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)**
     - **[reflection-and-annotation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)**
 
+
+---
+### 📂 Folders inside `io-programming-practice`
 
 ---
 
@@ -306,5 +316,10 @@ This repository contains my structured Java learning and practice work during Br
 | 18 January | 19 January |
 |-------------|-------------|
 | **Activities**<br>**Work Done**|**Activities**Studied About CSV<br>- OpenCSV Library<br>- In Spring Studied About Dpenedency Injection Implementation<br>**Work Done**|
+
+---
+| 20 January | 21 January |
+|-------------|-------------|
+| **Activities**Did Practice Problems on CSV data Handling<br>- Studied About JSON <br>-Completed Studying JSON study material <br>**Work Done**[01 Submission of CSV Data Handling](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv-data-handling)|**Activities**<br>- Practice Problem of JSON<br>- IPL and Match Analyzer problem Solution<br>**Work Done**[02 Submission on JSON](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/json)|
 
 ---
