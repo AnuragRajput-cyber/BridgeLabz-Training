@@ -290,7 +290,7 @@ This repository contains my structured Java learning and practice work during Br
 
 | 08 January | 09 January |
 |-------------|-------------|
-| **Activities**<br>- Studied About **Java Exceptions❌** <br>- Completed Studying Exception Handling<br>- **🤝Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions/)|**Activities**<br>- Gone through all of the study Material<br>- Git commands<br>**Work Done**<br>- Review(Verbal)|
+| **Activities**<br>- Studied About **Java Exceptions** <br>- Completed Studying Exception Handling<br>- **Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions/)|**Activities**<br>- Gone through all of the study Material<br>- Git commands<br>**Work Done**<br>- Review(Verbal)|
 
 ---
 | 10 January | 11 January |
