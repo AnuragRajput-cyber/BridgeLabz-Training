@@ -310,7 +310,7 @@ This repository contains my structured Java learning and practice work during Br
 ---
 | 16 January | 17 January |
 |-------------|-------------|
-| **Activities**Started With Spring By Myself<br>-Studied About Cloud Networking <br>- Git merging Experiment<br>- Studied [learning material for Git practices](https://drive.google.com/file/d/1T3Dmg3Arh1PEC9F1g00RosYfZ1ZeeJLY/view?usp=classroom_web&authuser=0)<br>**Work Done**|**Activities**<br>**Work Done**|
+| **Activities**Started With Spring By Myself<br>-Studied About Cloud Networking <br>- Git merging Experiment<br>- Studied [learning material for Git practices](https://drive.google.com/file/d/1T3Dmg3Arh1PEC9F1g00RosYfZ1ZeeJLY/view?usp=classroom_web&authuser=0)<br>**Work Done**|**Activities**<br>- Worked On Address Book Problem till 3 UC <br>**Work Done**<br>- [Address Book Problem](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBookSystem)|
 
 ---
 | 18 January | 19 January |
