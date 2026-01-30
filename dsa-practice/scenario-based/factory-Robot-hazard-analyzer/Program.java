@@ -10,7 +10,7 @@ public class Program {
     }
     static void test(RobotHazardAuditor auditor,double precision,int density,String state) {
         try {
-            System.out.println(auditor.CalculateHazardRisk(precision, density, state));
+            System.out.println("Robot Hazard Risk Score:"+auditor.CalculateHazardRisk(precision, density, state));
         } catch (RobotSafetyException e) {
             System.out.println(e.getMessage());
         }
