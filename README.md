@@ -60,12 +60,33 @@ BridgeLabz-Training
 |   |        └── Solving Some Problem with OOPS concepts
 |   |
 |   ├── scenario-based
+|       └── Real-world and logic-based collections problem scenarios
 |       ├── Employee Wage Problem
 |           └── Solve the challenge with following the OOPS paradigm
 |
 ├──dsa-pratice
 |   │
 |   ├── gcr-codebase
+|   |   ├── linkedlist
+|   |   │   └── Practice Problems on Multiple types of Linkedlist
+|   |   │
+|   |   |── stack-queue-hashmaps-and-hash-funtions
+|   |   |    └── Practice Problems and implementation of these structures
+|   |   |
+|   |   |── sorting
+|   |   |    └── BubbleSort,Selection, insertion,MergeSort,QuickSort,HeapSort
+|   |   |
+|   |   └── stringBuffer-stringBuilder-inputStreamReader-fileReader
+|   |   |    └── UseCases and Practice Problem using this
+|   |   |
+|   |   └── linear-and-binary-search
+|   |   |    └── Practice Problems using both algorithms
+|   |   |
+|   |   └── runtime-analysis-and-BigO-Notation
+|   |        └── Practice Problems on RunTime analysis
+|   |   
+|   ├── scenario-based
+|       └── Real-world and logic-based collections problem scenarios
 |      ├── linkedlist
 |       │   └── Practice Problems on Multiple types of Linkedlist
 |       │
@@ -97,6 +118,17 @@ BridgeLabz-Training
 |   │   |   └── practice Problems on Exception Handling
 |   │   |
 |   │   ├── streams
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── regex
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
+|   │   ├── junit
+|   │   |   └── practice Problems on streams API'
+|   │   |
+|   │   |
 |   │       └── practice Problems on streams API's
 |   │   |   └── practice Problems on streams API'
 |   │   |
@@ -213,6 +245,15 @@ This repository contains my structured Java learning and practice work during Br
     - **[regex](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)**
     - **[junit](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/junit)**
     - **[reflection-and-annotation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflection-and-annotation)**
+
+
+---
+
+### 📂 Folders inside `reviews`
+- **[review](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/review)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/reviews/review/gcr-codebase)**
+
+---
 
 
 ---
@@ -359,6 +400,7 @@ This repository contains my structured Java learning and practice work during Br
 
 | 08 January | 09 January |
 |-------------|-------------|
+| **Activities**<br>- Studied About **Java Exceptions❌** <br>- Completed Studying Exception Handling<br>- **🤝Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions/)|**Activities**<br>- Gone through all of the study Material<br>- Git commands<br>**Work Done**<br>- Review(Verbal)|
 | **Activities**<br>- Studied About **Java Exceptions** <br>- Completed Studying Exception Handling<br>- **Capgemini Mentor Meeting at 3 - 4PM**<br>**Work Done**<br>- [04 Submission of Exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions/)|**Activities**<br>- Gone through all of the study Material<br>- Git commands<br>**Work Done**<br>- Review(Verbal)|
 
 ---
@@ -379,6 +421,7 @@ This repository contains my structured Java learning and practice work during Br
 ---
 | 16 January | 17 January |
 |-------------|-------------|
+| **Activities**Started With Spring By Myself<br>-Studied About Cloud Networking <br>- Git merging Experiment<br>- Studied [learning material for Git practices](https://drive.google.com/file/d/1T3Dmg3Arh1PEC9F1g00RosYfZ1ZeeJLY/view?usp=classroom_web&authuser=0)<br>**Work Done**|**Activities**<br>**Work Done**|
 | **Activities**Started With Spring By Myself<br>-Studied About Cloud Networking <br>- Git merging Experiment<br>- Studied [learning material for Git practices](https://drive.google.com/file/d/1T3Dmg3Arh1PEC9F1g00RosYfZ1ZeeJLY/view?usp=classroom_web&authuser=0)<br>**Work Done**|**Activities**<br>- Worked On Address Book Problem till 3 UC <br>**Work Done**<br>- [Address Book Problem](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/AddressBookSystem)|
 
 ---
