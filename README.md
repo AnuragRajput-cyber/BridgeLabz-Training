@@ -118,6 +118,7 @@ BridgeLabz-Training
 |   │   |   └── practice Problems on Exception Handling
 |   │   |
 |   │   ├── streams
+|   │       └── practice Problems on streams API's
 |   │   |   └── practice Problems on streams API'
 |   │   |
 |   │   |
@@ -230,6 +231,16 @@ This repository contains my structured Java learning and practice work during Br
     - **[StringBuffer-StringBuilder-inputStreamReader-fileReader](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuffer-StringBuilder-inputStreamReader-fileReader)**
     - **[linear-and-binary-search](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linear-and-binary-search)**
     - **[runtime-analysis-and-BigO-Notation](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/runtime-analysis-and-BigO-Notation)**
+
+---
+### 📂 Folders inside `collections-practice`
+- **[collections-practice](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice)**
+  - **[gcr-codebase](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)**
+    - **[generics](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generics)**
+    - **[collection](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collection)**
+    - **[streams](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)**
+    - **[exceptions](https://github.com/AnuragRajput-cyber/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)**
+
 
 ---
 ### 📂 Folders inside `collections-practice`
